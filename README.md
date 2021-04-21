@@ -1,6 +1,6 @@
-## Your Name
+## Felix Piercy
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Ambitious and sociable individual at the beginning of a long-term career shift into technology. Originally a Liberal Arts grad from the University of Exeter, I began my career in Sales at a finance SME - helping start-ups develop the financial models and pitch decks which can be used to raise private investment upwards of £500k. I am a person who learns by doing, and I take great pleasure in building code that delivers a working output. Squashing bugs and finding those tiny errors is always pleasing (although painful at the time!) 
 
 ## Projects
 
