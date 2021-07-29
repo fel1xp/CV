@@ -1,4 +1,4 @@
-# A Little Bit About Me
+# Felix Piercy
 A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and Kubernetes Udemy course. My key language strength is in Ruby as well as building knowledge of JavaScript. Keen interest in serverless software deployment and following a test driven development process.
 
 ## Favourite Coding Projects
@@ -72,6 +72,6 @@ Intensive 4-month software development course focusing on how to 'learn to learn
 Liberal Arts BA - Major in History. 
 
 ## Hobbies
-FPV Drone Pilot
-Model Railways
-Dog Training 
+- FPV Drone Pilot
+- Model Railways
+- Dog Training 
