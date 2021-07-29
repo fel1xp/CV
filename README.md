@@ -7,7 +7,7 @@ MakersBNB - a website where users can create a space to rent, and guests can req
 
 Notes Application - a JavaScript web app allowing the user to record notes, which are listed in an abbreviated form which can then be expanded. This project is significant to me because it exemplified fantastic teamwork. Working with 2 peers, we approached the project in a cohesive manner and were all very supportive of one another. We took time for self-learning and had a high-test coverage despite only spending 2 weeks on JS at this stage. 
 
-Betwixt - My final project completed with 5 other talented Makers. Betwixt finds the mid-point between you and your friend, then recommending a variety of restaurants/bars/cafes for you to meet. The project is based on Next.js and involved the integration of numerous APIs. 
+Betwixt - My final project completed with 5 other talented Makers. Betwixt finds the mid-point between you and your friend, then recommending a variety of restaurants/bars/cafes for you to meet. The project uses Next.js and involved the integration of numerous APIs. 
 
 
 ## Key Skills & Attributes 
@@ -22,11 +22,12 @@ Betwixt - My final project completed with 5 other talented Makers. Betwixt finds
 
 ### Problem Solving Case Study 
 
-During my time at IQVIA as a COVID-19 tester, there were vast shortages of PPE and medical supplies across the UK which were critical to the role of organising and delivering COVID-19 testing kits. I managed to maintain a steady stream of test kits and was able to help colleagues who had struggled to acquire enough resources. This was achieved through early planning and communicating with my manager as well as suppliers. I placed small orders little and often to avoid stockpiling, as well as minimising wastage through careful use of kits. The result of this was that I was able to complete all my daily tasks whilst being able to help others achieve their targets. 
+At my previous role as a sales executive we were suffering from a low click through rate on Google Adverts. In order to solve this problem, our website needed SEO improvements and the wording of the Google Ads needed refreshing. I took action by downloading SEO improvement tools and making content changes to help the organisations website ranking. Furthermore, I refreshed the Google Ad text in relation to the website changes so that both adverts and website displayed a cohesive message. The result of this was a doubling of sales month-on-month from January through to March. 
+
 
 ### Curious Learner Case Study 
 
-Continually improving my skillset and always interested in discovering the latest technology. The intensive software development course at Makers illustrates my desire to learn new skills. I gained real experience building web applications end to end and participated in every workshop to facilitate my learning journey. My curiosity to learn new skills extends beyond Makers where I began the AWS Cloud Practitioner course after a discussion with a software developer and understanding the benefits of serverless/containerised deployment. 
+Continually improving my skillset and always interested in discovering the latest technology. The intensive software development course at Makers reflects my desire to learn new skills. I gained real experience building web applications end to end as well as participating in every workshop to facilitate my learning journey. My curiosity to learn new skills extends beyond Makers where I have begun the AWS Cloud Practitioner course after a discussion with a software developer and understanding the benefits of serverless/containerised deployment. 
 
 
 ## Work Experience
@@ -45,11 +46,13 @@ Sales Executive
 
 IQVIA (Sept - Nov 2020)
 COVID-19 Tester
+
 - Independently prepared and delivered COVID-19 swab test kits in line with strict healthcare guidelines.
 - Responding and resolving equipment shortages requiring manager and team co-operation.
 
 Tesco (Jul - Aug 2018)
 Delivery Driver 
+
 - Providing exceptional customer service whilst working to tight deadlines.
 - Resolving complaints under pressure from the client.
 
