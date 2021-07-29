@@ -1,5 +1,5 @@
 # Felix Piercy
-A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. At the beginning of a long-term career shift into software development. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and Kubernetes Udemy course. My key language strength is in Ruby as well as building confidence in JavaScript. I also have a keen interest in serverless software deployment and realising the benefits of a containerised world.
+A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and Kubernetes Udemy course. My key language strength is in Ruby as well as building knowledge of JavaScript. Keen interest in serverless software deployment and following a test driven development process.
 
 ## My favourite coding projects
 
