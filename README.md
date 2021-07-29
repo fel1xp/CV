@@ -1,7 +1,7 @@
-# Felix Piercy
+# A Little Bit About Me
 A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and Kubernetes Udemy course. My key language strength is in Ruby as well as building knowledge of JavaScript. Keen interest in serverless software deployment and following a test driven development process.
 
-## My favourite coding projects
+## Favourite Coding Projects
 
 MakersBNB - a website where users can create a space to rent, and guests can request to book. This project was the most formative experience for me during the course as it involved conflict, building on existing concepts and beginning to style our applications. 
 
@@ -32,31 +32,31 @@ Continually improving my skillset and always interested in discovering the lates
 
 ## Work Experience
 
-Makers Academy (Apr - Jul 2021)  
+#### Makers Academy (Apr - Jul 2021)  
 Software Developer Student
 
 - 4-month intensive software development bootcamp focused on how to learn new coding languages, soft skills and essential front-end/back-end languages including Ruby and JavaScript. 
 
-Orsatech Ltd (Oct 2020 - Apr 2021)  
+#### Orsatech Ltd (Oct 2020 - Apr 2021)  
 Sales Executive 
 
 - Communicating with clients and ensuring the client needs are matched with our services. 
 - Self driven website content creation and management of Google and Bing adverts. 
 - Prepare client quote documents and contracts requiring attention to detail.
 
-IQVIA (Sept - Nov 2020)
+#### IQVIA (Sept - Nov 2020)
 COVID-19 Tester
 
 - Independently prepared and delivered COVID-19 swab test kits in line with strict healthcare guidelines.
 - Responding and resolving equipment shortages requiring manager and team co-operation.
 
-Tesco (Jul - Aug 2018)
+#### Tesco (Jul - Aug 2018)
 Delivery Driver 
 
 - Providing exceptional customer service whilst working to tight deadlines.
 - Resolving complaints under pressure from the client.
 
-Deloitte Digital (Sept - Dec 2015)
+#### Deloitte Digital (Sept - Dec 2015)
 Consultant Intern
 
 - 3-month internship facilitating clients implement Salesforce CRM Systems.
