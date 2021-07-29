@@ -34,7 +34,7 @@ Continually improving my skillset and always interested in discovering the lates
 Makers Academy (Apr - Jul 2021)  
 Software Developer Student
 
-- A 4-month intensive software development bootcamp focused on how to learn new coding languages, soft skills and essential front-end/back-end languages including Ruby and JavaScript. 
+- 4-month intensive software development bootcamp focused on how to learn new coding languages, soft skills and essential front-end/back-end languages including Ruby and JavaScript. 
 
 Orsatech Ltd (Oct 2020 - Apr 2021)  
 Sales Executive 
@@ -44,16 +44,19 @@ Sales Executive
 - Prepare client quote documents and contracts requiring attention to detail.
 
 IQVIA (Sept - Nov 2020)
+
 COVID-19 Tester
 - Independently prepared and delivered COVID-19 swab test kits in line with strict healthcare guidelines.
 - Responding and resolving equipment shortages requiring manager and team co-operation.
 
 Tesco (Jul - Aug 2018)
+
 Delivery Driver 
 - Providing exceptional customer service whilst working to tight deadlines.
 - Resolving complaints under pressure from the client.
 
 Deloitte Digital (Sept - Dec 2015)
+
 Consultant Intern
 
 - 3-month internship facilitating clients implement Salesforce CRM Systems.
