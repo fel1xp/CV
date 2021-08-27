@@ -1,5 +1,5 @@
 # Felix Piercy
-A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and Kubernetes Udemy course. My key language strength is in Ruby as well as building knowledge of JavaScript. Keen interest in serverless software deployment and following a test driven development process.
+A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and personal projects. My key language strength is in Ruby as well as building knowledge of JavaScript. Keen interest in serverless software deployment and following a test driven development process.
 
 ## Favourite Coding Projects
 
@@ -53,7 +53,6 @@ Liberal Arts BA - Major in History.
 ### Problem Solving Case Study 
 
 At my previous role as a sales executive we were suffering from a low click through rate on Google Adverts. In order to solve this problem, our website needed SEO improvements and the wording of the Google Ads needed refreshing. I took action by downloading SEO improvement tools and making content changes to help the organisations website ranking. Furthermore, I refreshed the Google Ad text in relation to the website changes so that both adverts and website displayed a cohesive message. The result of this was a doubling of sales month-on-month from January through to March. 
-
 
 
 ## Hobbies
