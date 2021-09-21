@@ -1,13 +1,13 @@
-# Felix Piercy
-A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and personal projects. My key language strength is in Ruby as well as building knowledge of JavaScript. Keen interest in serverless software deployment and following a test driven development process.
+# Felix Piercy - The Full CV!
+A driven Makers Academy graduate who is a quick learner and ready to get stuck into a new challenge. I'm a clear communicator who is comfortable working independently and enjoys collaborating with others to deliver high quality, scalable code. I chose to pursue a career in software development for the creativity and opportunity to build projects from scratch - I find it very satisfying!
 
 ## Favourite Coding Projects
 
-Betwixt - My final project completed with 5 other talented Makers. Betwixt finds the mid-point between you and your friend, then recommending a variety of restaurants/bars/cafes for you to meet. The project uses Next.js and involved the integration of numerous APIs. 
+[Betwixt](https://github.com/Dev-ops-true/betwixt) - My final project completed with 5 other talented Makers. Betwixt finds the mid-point between you and your friend, then recommending a variety of restaurants/bars/cafes for you to meet. The project uses Next.js and involved the integration of numerous APIs. 
 
-MakersBNB - a website where users can create a space to rent, and guests can request to book. This project was the most formative experience for me during the course as it involved conflict, building on existing concepts and beginning to style our applications. 
+[MakersBNB](https://github.com/ArifEbrahim/makers_bnb) - a website where users can create a space to rent, and guests can request to book. This project was the most formative experience for me during the course as it involved conflict, building on existing concepts and beginning to style our applications. 
 
-Notes Application - a JavaScript web app allowing the user to record notes, which are listed in an abbreviated form which can then be expanded. This project is significant to me because it exemplified fantastic teamwork. Working with 2 peers, we approached the project in a cohesive manner and were all very supportive of one another. We took time for self-learning and had a high-test coverage despite only spending 2 weeks on JS at this stage. 
+[Notes Application](https://github.com/cms718/notepad-js) - a JavaScript web app allowing the user to record notes, which are listed in an abbreviated form which can then be expanded. This project is significant to me because it exemplified fantastic teamwork. Working with 2 peers, we approached the project in a cohesive manner and were all very supportive of one another. We took time for self-learning and had a high-test coverage despite only spending 2 weeks on JS at this stage. 
 
 
 ## Work Experience 
